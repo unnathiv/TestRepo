@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Hello!! Nope
 How whats up!!
+=======
+Hii!!
+whats up!!
+>>>>>>> ac54aec74072290025589c5d0c7b9f805f430c95
 are
-you?
+you DOING?
 I am 
 Fine.
