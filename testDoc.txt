@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 What Hii!!
+=======
+<<<<<<< HEAD
+Hello!! Nope
+How whats up!!
+=======
+Hii!!
+>>>>>>> 82c2aa6e73b30c97b6e55baff09b14e2f2116013
 whats up!!
+>>>>>>> ac54aec74072290025589c5d0c7b9f805f430c95
 are
 you DOING?
 I am 
